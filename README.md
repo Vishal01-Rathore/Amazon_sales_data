@@ -13,6 +13,6 @@ In this project, i have build a dashboard fully on Excel. I have done the data c
 Excel
 
 ## Dashboard Image-
-This is only the image for live dashboard you can go to the 
-- ![Example Image](dashboard.png)
+This is only the image for live dashboard you can go to the file "sales data.xlxs".
+- ![Example Image](Dashboard_image.png)
 
