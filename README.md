@@ -9,10 +9,14 @@ In this project, i have build a dashboard fully on Excel. I have done the data c
 - The highest revenues we generated through the cities is as represented in line chart.
 - The product wise units sold in the funnel chart is as like which product sold the most.
 
-## Tools I used -
+### Tools I used -
 Excel
 
-## Dashboard Image-
-This is only the image for live dashboard you can go to the file "sales data.xlxs".
+### Dashboard Image-
+This is only the image for live dashboard you can go to the file "Sales Data.xlxs" and click on view raw.
 - ![Example Image](Dashboard_image.png)
 
+## Conclusion 
+The result for this project is that, we have learnt the the data preparation for making dashboard withut using any tool. And gained a new experience of advanced excel charts, data modelling and data visualisation through Excel.
+
+### Thanks for visiting my project!
