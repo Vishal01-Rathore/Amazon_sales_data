@@ -4,10 +4,11 @@
 Welcome to my project.
 In this project, i have build a dashboard fully on Excel. I have done the data cleaning, data filtering, data transforming and data visualization on a single tool that is our Excel.
 
-### The insights we are able to seee from this dashboards are- 
+### The insights we are able to see from this dashboards are- 
 - The target we have setup and the achieved target in different-different regions such as across cities and states of the country.
 - The highest revenues we generated through the cities is as represented in line chart.
 - The product wise units sold in the funnel chart is as like which product sold the most.
+- The map filed chart or heated map of the sales of the locations through out the country. 
 
 ### Tools I used -
 Excel
