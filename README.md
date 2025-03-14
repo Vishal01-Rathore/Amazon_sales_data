@@ -14,4 +14,5 @@ Excel
 
 ## Dashboard Image-
 This is only the image for live dashboard you can go to the 
+- ![Example Image](dashboard.png)
 
